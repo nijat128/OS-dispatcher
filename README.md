@@ -33,6 +33,7 @@ only):
 2100 R 2 2 \\ process 2 requests resource 2
 2200 E 3 \\ process 3 exits
 2300 R 2 1 \\ process 1 requests resource 2
+  
 3000 I 2 1 \\ interrupt from resource 2 (request of process 1 is accomplished)
 13050 T \\ timer interrupt
 3450 T \\ timer interrupt

@@ -1,6 +1,5 @@
 # OS-dispatcher
 implement a simple dispatcher for an OS
-
 The task is to implement a simplified Dispatcher for an OS. It will react to events and
 change states of processes admitted to the system respectfully. 
 Events will be simulated. The sequence of events will be given in the standard
